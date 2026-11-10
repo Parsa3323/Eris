@@ -2,10 +2,6 @@
 
 > A little more momentum.
 
-![Eris Dark](https://github.com/user-attachments/assets/27facf8e-6672-446f-971a-9a40c8d49572#gh-dark-mode-only)
-
-![Eris Light](https://github.com/user-attachments/assets/2f64f85e-7fdc-447c-bbd1-706f12a1774d#gh-light-mode-only)
-
 **Eris** is a native Windows download manager built for direct downloads, browser capture, media grabbing, and managing large download queues from one place.
 
 [**Download Eris**](https://github.com/Parsa3323/Eris/releases/latest) · [Website](https://parsa3323.github.io/Eris/) · [Release history](https://github.com/Parsa3323/Eris/releases)
@@ -63,12 +59,9 @@ Media handling supports direct media files and supported HLS/DASH streams. The b
 
 ## Download
 
-The latest stable release is available from the [GitHub Releases page](https://github.com/Parsa3323/Eris/releases/latest).
+Get the latest version from the [GitHub Releases page](https://github.com/Parsa3323/Eris/releases/latest).
 
-For each release, the assets include the Windows installer, Chromium and Firefox extension packages, SHA-256 checksums, and the update manifest.
-
-**Latest release:** [Eris 1.009.00](https://github.com/Parsa3323/Eris/releases/tag/v1.009.00)  
-**Installer:** [Eris-Setup-1.009.00.exe](https://github.com/Parsa3323/Eris/releases/download/v1.009.00/Eris-Setup-1.009.00.exe)
+Each release provides the Windows installer, Chromium and Firefox extension packages, SHA-256 checksums, and the update manifest.
 
 ## System requirements
 
