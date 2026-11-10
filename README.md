@@ -69,6 +69,11 @@ The installer is intended for the current Windows user. Browser integration is o
 - Some websites restrict downloads or change their media delivery methods. Not every player, URL, or format can be captured.
 - Authentication data is not saved in download history or queue settings.
 
+## Legal
+
+- [Privacy Policy](PRIVACY_POLICY.md)
+- [Terms of Service](TERMS_OF_SERVICE.md)
+
 ## Links
 
 - [Eris website](https://parsa3323.github.io/Eris/)
