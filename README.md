@@ -49,13 +49,6 @@ Media handling supports direct media files and supported HLS/DASH streams. The b
 - Create automation rules triggered by events, times, or network availability
 - Run queue actions and notifications, with confirmation required for external programs, scripts, and power actions
 
-### Desktop experience
-
-- Download progress, speed charts, and file-level details
-- System-tray operation with controls to pause or resume downloads
-- Automatic update checks and installer verification
-- Download folders that can be configured by file category
-
 ## Download
 
 Get the latest version from the [GitHub Releases page](https://github.com/Parsa3323/Eris/releases/latest).
