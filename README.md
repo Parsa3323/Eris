@@ -51,7 +51,6 @@ Media handling supports direct media files and supported HLS/DASH streams. The b
 
 ### Desktop experience
 
-- Light, Dark, Woody, and Device themes
 - Download progress, speed charts, and file-level details
 - System-tray operation with controls to pause or resume downloads
 - Automatic update checks and installer verification
